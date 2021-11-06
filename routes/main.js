@@ -18,7 +18,7 @@ router.get('/api/game', (req, res) => {
 })
 
 router.get('/api/about', (req, res) => {
-    res.sendFile(__path + '/views/about.html')
+    res.sendFile(__path + '/views/error.html')
 })
 
 router.get('/api/status', async(req, res) => {  

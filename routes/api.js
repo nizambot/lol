@@ -12,7 +12,7 @@ var kuhong = db.get('ojan'); // jan diubah
 var listkey = ['GratisanMuluAnjing', 'PsycoBOTZ'];
 var creatorList = ['Pino Bagas S']; // Nama Lu Ngab
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)]; // Ini jan diubah
-var key = 'GratisanMuluAnjing' // Apikey Lu Ngab
+var key = 'PsycoBOTZ' // Apikey Lu Ngab
 
 // Required Modules :
 var ffmpeg = require('fluent-ffmpeg');
