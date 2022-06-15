@@ -44,7 +44,7 @@ var port = process.env.PORT || 8080 || 5000 || 3000
         speed: `${neww - old}ms`,
         info:{       
             creator: 'PINO DEV',            
-            apikey: 'PsycoBOTZ'
+            apikey: 'Pino'
         }
     }
     res.json(status)
